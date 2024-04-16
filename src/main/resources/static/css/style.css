@@ -1,0 +1,9 @@
+.moto:hover {
+    transition: 0.5s;
+    transform: scale(1.02);
+}
+
+.moto-link {
+    color: #000 !important;
+    text-decoration: none
+}
